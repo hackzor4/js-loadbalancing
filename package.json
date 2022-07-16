@@ -1,0 +1,19 @@
+{
+  "name": "js-loadbalancing",
+  "version": "1.0.0",
+  "description": "A small load-balancing library for backends",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "/dist"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Alexandru Ianas",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^4.7.4"
+  }
+}
